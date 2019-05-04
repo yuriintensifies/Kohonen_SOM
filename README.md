@@ -8,3 +8,5 @@ Instructions:
 
 3. Run visualize.py to create an html file containing results
 
+
+Try changing parameters in SOM.py or other fully numerical unlabeled datasets.
