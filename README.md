@@ -1,7 +1,10 @@
 # Kohonen_SOM
 
 Instructions:
-Run process.py to make countries.csv more workable
-Run SOM.py to run SOM algorithm
-Run visualize.py to create an html file containing results
+
+1. Run process.py to make countries.csv more workable
+
+2. Run SOM.py to run SOM algorithm
+
+3. Run visualize.py to create an html file containing results
 
